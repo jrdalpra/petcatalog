@@ -5,3 +5,6 @@ It has been taken from the [NetBeans sample](http://netbeans.org/kb/samples/pet-
 Also, it displays [Arquillian](http://arquillian.org/) use with [TomEE](https://tomee.apache.org/).
 
 Next versions may include Arquillian Persistence and Arquillian Graphene to add more tests.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jrdalpra/petcatalog/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
